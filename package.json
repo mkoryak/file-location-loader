@@ -1,0 +1,26 @@
+{
+  "name": "file-location-loader",
+  "version": "0.1.0",
+  "description": "webpack loader that adds the resourcePath to the top of the file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkoryak/file-location-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader"
+  ],
+  "author": "Misha Koryak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkoryak/file-location-loader/issues"
+  },
+  "homepage": "https://github.com/mkoryak/file-location-loader#readme",
+  "dependencies": {
+    "loader-utils": "~0.2.12"
+  }
+}
