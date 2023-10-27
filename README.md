@@ -1,7 +1,7 @@
 # file-location-loader
 webpack loader that adds the file's path to the top of the file as a comment
 
-[this site mirrors github.. so](https://bonoperntird.com)
+[testing123](https://google.com)
 
 # install
 
