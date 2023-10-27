@@ -1,7 +1,18 @@
 # file-location-loader
 webpack loader that adds the file's path to the top of the file as a comment
 
-[testing123](https://dogself.com/evil/bot/is-evil)
+[https://a.com](https://a.com)
+[https://a.co](https://a.co)
+[https://a](https://a)
+[https://](https://)
+[http://a.com](http://a.com)
+
+[https://aa.com](https://aa.com)
+[https://aaa.com](https://aaa.com)
+[https://aaaa.com](https://aaaa.com)
+[https://1.com](https://1.com)
+[https://2.com](https://2.com)
+[https://3.com](https://3.com)
 
 # install
 
